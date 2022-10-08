@@ -1,0 +1,10 @@
+pandas
+plotly
+streamlit
+datetime
+openpyxl
+Pydeck==0.7.1
+Pillow
+streamlit_option_menu
+
+
